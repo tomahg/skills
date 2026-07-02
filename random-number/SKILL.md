@@ -1,7 +1,7 @@
 ---
 disable-model-invocation: false
 name: random-number
-description: Picks a random integer using a real random number generator instead of guessing one. Use this whenever the user asks to pick, roll, or generate a random number, roll a die, flip a coin (1-2), or pick a winner/index from a range, even casually, e.g. "give me a random number between 1 and 6" or "just pick something between 5 and 50 for me".
+description: Picks a random integer using a real random number generator instead of guessing one. Use whenever the user wants to generate a random number, roll a die, flip a coin (1-2), or pick a winner or index from a range, e.g. "give me a random number between 1 and 6".
 ---
 
 # Pick a random number
